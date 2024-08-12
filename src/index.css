@@ -140,7 +140,26 @@ Navbar
     max-width: 100%; /* Full width for very small screens */
     margin: 0;
   }
-
+  .nav_bar .left{
+      border: 1px solid black;
+    width: 70%;
+    text-align: center;
+    margin-left: 70px;
+    padding: 10px;
+    border-radius: 40px;
+      background-color: #dddddd48;
+    
+  }
+.nav_links .nav_item{
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 40px;
+  background-color: #dddddd48;
+}
+  .nav_item:hover{
+    background-color:none;
+    
+  }
   .nav_bar {
     flex-direction: column;
     align-items: flex-start;
@@ -387,7 +406,16 @@ Exprience Section
     max-width: 100px;
     max-height: 100px;
   }
-
+.ex h1{
+  border: 1px solid black;
+width: 70%;
+text-align: center;
+margin-left: 70px;
+padding: 10px;
+margin-top: 80px;
+border-radius: 40px;
+  background-color: #dddddd48;
+}
   .ex-item .right h2 {
     font-size: 1.25rem;
   }
@@ -476,7 +504,15 @@ project
     width: 100%;
     height: auto;
   }
-
+.projects h1{
+  border: 1px solid black;
+width: 70%;
+margin-left: 70px;
+padding: 10px;
+margin-top: 15px;
+border-radius: 40px;
+  background-color: #dddddd48;
+}
   .card-body .btn-primary, .card-body .btn-warning {
     width: 100%;
     margin-bottom: 10px;
@@ -547,7 +583,16 @@ Skills section
     margin: 10px;
     padding: 10px;
   }
-
+ .skills h1{
+    border: 1px solid black;
+  width: 70%;
+  text-align: center;
+  margin-left: 70px;
+  padding: 10px;
+  margin-top: 80px;
+  border-radius: 40px;
+    background-color: #dddddd48;
+  }
   .skills .items .item img {
     width: 50px;
   }
@@ -623,7 +668,16 @@ Contact
     height: 50px;
     width: 50px;
   }
-
+.contact h1{
+    border: 1px solid black;
+  width: 70%;
+  text-align: center;
+  margin-left: 70px;
+  padding: 10px;
+  margin-top: 80px;
+  border-radius: 40px;
+    background-color: #dddddd48;
+  }
   .contact-icon .items .icons {
     font-size: 1.5rem;
   }
