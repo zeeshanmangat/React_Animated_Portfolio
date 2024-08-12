@@ -13,19 +13,19 @@ const Contact = () => {
          data-aos="zoom-in-up"
       data-aos-duration="1000"
         >
-        <a href='' target='_blank' className="items">
+        <a href='www.linkedin.com/in/zeeshan-asghar29898' target='_blank' className="items">
             <FaLinkedin className='icons' />
         </a>
-        <a href='' className="items">
+        <a href='https://github.com/zeeshanmangat' className="items">
             <FaGithub className='icons'/>
         </a>
-        <a href='' className="items">
+        <a href='https://www.facebook.com/zeeshan.mangat.71?mibextid=ZbWKwL' className="items">
             <FaFacebook className='icons'/>
         </a>
         <a href='mailto:zeeshanmangat237@gmail.com' className="items">
         <SiGmail className='icons'/>
         </a>
-        <a href='' className="items">
+        <a href='03461014651' className="items">
             <IoIosContact className='icons'/>
         </a>
         </div>
